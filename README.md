@@ -4,6 +4,8 @@ Aplicação web para consultar, estudar e executar exercícios de lógica de pro
 
 [Acessar a aplicação](https://gilvamoliveira.github.io/VisualG-JavaScript-Logic-Exercises-PROA/)
 
+**Estudo de caso:** [contexto, decisões técnicas e próximos passos](CASE_STUDY.md).
+
 ## Demonstração
 
 ![Navegação pelo catálogo Manzano e execução de um exercício em JavaScript no Meteoro de Lógica](./img/demo.gif)
