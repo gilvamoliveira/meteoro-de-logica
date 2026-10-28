@@ -2,9 +2,7 @@
 
 Aplicação web para consultar, estudar e executar exercícios de lógica de programação das apostilas Manzano e Faccat, com soluções em VisualG e JavaScript no navegador, catálogo organizado, editor interativo e testes automatizados.
 
-[Acessar a aplicação](https://gilvamoliveira.github.io/VisualG-JavaScript-Logic-Exercises-PROA/)
-
-**Estudo de caso:** [contexto, decisões técnicas e próximos passos](CASE_STUDY.md).
+[Acessar a aplicação](https://gilvamoliveira.github.io/meteoro-de-logica/)
 
 ## Demonstração
 
