@@ -87,4 +87,4 @@ Exercícios padrão removidos também permanecem excluídos após recarregar a p
 
 ---
 
-Autor: Gilvam Oliveira · [LinkedIn](https://www.linkedin.com/in/gilvam-oliveira/)
+Feito por mim — [LinkedIn](https://www.linkedin.com/in/gilvam-oliveira/)
